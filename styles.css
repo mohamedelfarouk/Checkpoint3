@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto';
+    background-color: grey;
+    color: beige;
+}
+
+nav{
+    display: inline;
+}
+
+nav{
+    overflow: hidden;
+    background-color: beige;
+    top: 0;
+    position: fixed;
+    width: 100%;
+}
+
+nav :hover{
+    background-color: darkgray;
+    color:  black;
+}
+
+.comm {
+    font-size: 110%;
+}
+
+input{
+    background-color: beige;
+    color: gray;
+}
